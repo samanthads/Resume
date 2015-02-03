@@ -107,7 +107,7 @@ ul.employment li{
 }
 
 .loc{
-	font-size: 15px;
+	font-size: 14px;
 }
 
 .title{
@@ -117,11 +117,12 @@ ul.employment li{
 
 .employer{
 	font-weight: bold;
+	font-size: 16px;
 
 }
 
 .date{
-	font-size: 15px;
+	font-size: 14px;
 }
 
 
