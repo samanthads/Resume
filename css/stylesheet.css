@@ -1,0 +1,232 @@
+a:link{
+	font: sans-serif;
+	font-size: 16px;
+	color: white;
+}
+a:hover{
+	color: blue;
+
+}
+
+h1{
+	text-align: center;
+	background-color: gray;
+}
+
+
+
+body{
+	background-image: url("images/boston.jpg");
+	background-color: #cccccc;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	color: white;
+	text-align: center;
+}
+
+p{
+	font-size: 13px;
+}
+
+.contact li{
+	float: left;
+	margin: 1%;
+	width: 30%;
+	text-align: center;
+}
+
+ul.employment{
+	list-style: none;
+	margin: 1%;
+	padding: 2px;
+	width: 100%;
+}
+
+ul{
+	list-style: none;
+}
+
+ul.school{
+	list-style: none;
+	margin: 1%;
+	padding: 2px;
+	width: 100%;
+	float: left;
+}
+
+ul.school li{
+	float: left;
+}
+
+.washu{
+	background-color: white;
+	color: black;
+	padding: 1%;
+	border: 2px solid;
+    border-radius: 25px;
+	margin: 1%;
+	max-width: 25%;
+	height: 120px;
+	text-decoration: none;
+	position: relative;
+	left: 26%;
+	border-color: gray;
+
+}
+
+.ucl{
+	background-color: white;
+	color: black;
+	padding: 1%;
+	border: 2px solid;
+    border-radius: 25px;
+	margin: 1%;
+	max-width: 25%;
+	height: 120px;
+	text-decoration: none;
+	position: relative;
+	left: 26%;
+	border-color: gray;
+
+}
+
+.pwc{
+	background-color: white;
+	color: black;
+	padding: 1%;
+	border: 2px solid;
+    border-radius: 25px;
+	margin: 1%;
+	width: 20%;
+	height: 210px;
+	border-color: gray;
+}
+
+ul.employment li{
+	float: left;
+}
+
+.loc{
+	font-size: 15px;
+}
+
+.title{
+	font-size: 15px;
+	font-style: italic;
+}
+
+.employer{
+	font-weight: bold;
+
+}
+
+.date{
+	font-size: 15px;
+}
+
+
+.ta{
+	background-color: white;
+	color: black;
+	padding: 1%;
+	border: 2px solid;
+    border-radius: 25px;
+	margin: 1%;
+	width: 20%;
+	height: 210px;
+	text-decoration: none;
+	border-color: gray;
+}
+.ta a:visited{
+	color: black;
+}
+
+.ta a:link{
+	text-decoration: none;
+	color: black;
+}
+
+.bps{
+	width: 20%;
+	padding: 1%;
+	border: 2px solid;
+    border-radius: 25px;
+	margin: 1%;
+	background-color: white;
+	color: black;
+	height: 210px;
+	border-color: gray;
+}
+
+h2{
+	color:white;
+	margin: 2%;
+	text-align: center;
+}
+
+.brain{
+	width: 20%;
+	padding: 1%;
+	border: 2px solid;
+    border-radius: 25px;
+	margin: 1%;
+	color: black;
+	height: 210px;
+	background-color: white;
+	border-color: gray;
+}
+
+ul.activities{
+	list-style: none;
+	float: left;
+	width: 100%;
+}
+
+ul.activities li{
+	float: left;
+	margin: 1%;
+	padding: 1%;
+	width: 100%;
+}
+
+.aephi{
+	max-width: 20%;
+	border: 2px solid;
+    border-radius: 25px;
+	margin: 1%;
+	color: black;
+	height: 100px;
+	background-color: white;
+	position: relative;
+	left: 22.5%;
+	border-color: gray;
+}
+
+.eoto{
+	max-width: 20%;
+	border: 2px solid;
+    border-radius: 25px;
+	margin: 1%;
+	color: black;
+	height: 100px;
+	background-color: white;
+	position: absolute;
+	left: 50.5%;
+	border-color: gray;
+
+}
+
+.tech{
+	margin: 1%;
+	padding: 1%;
+	width: 25%;
+	border: 2px solid;
+    border-radius: 25px;
+    height: 50px;
+    background-color: white;
+    position: relative;
+    left: 35.5%;
+    color: black;
+    border-color: gray;
+    font-size: 13px;
+}
